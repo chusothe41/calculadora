@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Test0050()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Test0050\r\n
+comment1.params=numero\ multiplicador
+comment1.target=int\ multiplicacion(int,\ int)
+comment2.params=numero\ divisor
+comment2.target=int\ division(int,\ int)
+numComments=3
